@@ -24,9 +24,9 @@
     "lib/*.js"
   ],
   "devDependencies": {
-    "@btmills/eslint-config-btmills": "^0.1.2",
+    "@btmills/eslint-config-btmills": "^3.2.0",
     "chai": "^3.4.1",
-    "eslint": "^1.10.3",
-    "mocha": "^2.4.1"
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4"
   }
 }
